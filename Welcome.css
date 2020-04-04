@@ -1,8 +1,3 @@
-/* Set height to 100% for body and html to enable the background image to cover the whole page: */
-body, html {
-  height: 100%
-}
-
 .bgimg {
   /* Background image */
   background-image: url('/w3images/forestbridge.jpg');
@@ -50,4 +45,18 @@ body, html {
 hr {
   margin: auto;
   width: 40%;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: green;
 }
