@@ -1,7 +1,7 @@
 .bgimg {
-  /* Background image */
-  background-image: url('/w3images/forestbridge.jpg');
-  /* Full-screen */
+  /* Background Color */
+    background-color: antiquewhite;
+    /* Full-screen */
   height: 100%;
   /* Center the background image */
   background-position: center;
